@@ -1,0 +1,98 @@
+{"sourceFile": [{
+      "name": "",
+      "directive": [
+        {
+          "functionName": "multip_2num",
+          "label": "",
+          "functionLabel": "",
+          "id": "1",
+          "sourceFile": "\/home\/ubuntu\/course-lab_1\/hls_ip\/solution1\/directives.tcl",
+          "sourceLine": "6",
+          "pragma": {
+            "name": "TOP",
+            "option": [{
+                "name": "name",
+                "value": "multip_2num"
+              }]
+          }
+        },
+        {
+          "functionName": "multip_2num",
+          "label": "",
+          "functionLabel": "",
+          "id": "2",
+          "sourceFile": "\/home\/ubuntu\/course-lab_1\/hls_ip\/solution1\/directives.tcl",
+          "sourceLine": "7",
+          "pragma": {
+            "name": "INTERFACE",
+            "option": [
+              {
+                "name": "s_axilite",
+                "value": ""
+              },
+              {
+                "name": "port",
+                "value": "n32In1"
+              }
+            ]
+          }
+        },
+        {
+          "functionName": "multip_2num",
+          "label": "",
+          "functionLabel": "",
+          "id": "3",
+          "sourceFile": "\/home\/ubuntu\/course-lab_1\/hls_ip\/solution1\/directives.tcl",
+          "sourceLine": "8",
+          "pragma": {
+            "name": "INTERFACE",
+            "option": [
+              {
+                "name": "s_axilite",
+                "value": ""
+              },
+              {
+                "name": "port",
+                "value": "n32In2"
+              }
+            ]
+          }
+        },
+        {
+          "functionName": "multip_2num",
+          "label": "",
+          "functionLabel": "",
+          "id": "4",
+          "sourceFile": "\/home\/ubuntu\/course-lab_1\/hls_ip\/solution1\/directives.tcl",
+          "sourceLine": "9",
+          "pragma": {
+            "name": "INTERFACE",
+            "option": [
+              {
+                "name": "s_axilite",
+                "value": ""
+              },
+              {
+                "name": "port",
+                "value": "pn32ResOut"
+              }
+            ]
+          }
+        },
+        {
+          "functionName": "multip_2num",
+          "label": "",
+          "functionLabel": "",
+          "id": "5",
+          "sourceFile": "\/home\/ubuntu\/course-lab_1\/hls_ip\/solution1\/csynth.tcl",
+          "sourceLine": "16",
+          "pragma": {
+            "name": "TOP",
+            "option": [{
+                "name": "name",
+                "value": "multip_2num"
+              }]
+          }
+        }
+      ]
+    }]}
