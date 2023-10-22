@@ -2,7 +2,11 @@
 
 *.docx
 *.zip
-report.pdf
 Lab1/version_screen_dump.png
 
-/Lab2/HW
+Lab1/report.pdf
+Lab2/report.pdf
+Lab2/HW
+Lab3/HW
+Lab3/draw.pptx
+Lab3/source
